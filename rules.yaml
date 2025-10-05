@@ -1,0 +1,14 @@
+fields:
+  - name: invoice_number
+    description: "The unique invoice number."
+  - name: invoice_date
+    description: "The date when the invoice was issued."
+  - name: total_amount
+    description: "The total amount of the invoice including the currency."
+  - name: customer_name
+    description: "The name of the billed customer or company."
+  - name: due_date
+    description: "The payment due date of the invoice."
+  - name: email
+    description: "The contact email address on the invoice."
+
